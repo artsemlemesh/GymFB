@@ -7,6 +7,10 @@
 [Frontend] https://github.com/artsemlemesh/GymF.git
 [Backend] https://github.com/artsemlemesh/GymB.git
 
+# Live Demo
+
+[Frontend] https://gym-f-dc98ca53f9ec.herokuapp.com/
+[Backend] https://gymback-fc9d621d2ec1.herokuapp.com/
 
 ## Description
 
