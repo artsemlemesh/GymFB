@@ -23,7 +23,6 @@ GymApp is a comprehensive web application designed for gym enthusiasts to explor
 - **Blog:** Read useful articles on fitness and health.
 - **Membership Plans:** View and choose from various membership plans.
 - **Payments:** Pay for programs securely using Stripe.
-- **Feedback:** Leave and read feedback from other gym members.
 - **Map Location:** Find the gym location on a map.
 - **Personal Web Cabinet:** Manage enrolled classes, register for new classes, and view personal information.
 - **Photo Gallery:** Explore a gallery of gym photos.
